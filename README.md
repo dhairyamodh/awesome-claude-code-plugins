@@ -339,6 +339,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [sprint-prioritizer](./plugins/sprint-prioritizer)
 - [studio-producer](./plugins/studio-producer)
 - [tool-evaluator](./plugins/tool-evaluator)
+- [truthtrail](https://github.com/truthtrail/claude-plugin) - Records the product decisions made while Claude Code works on a ticket (question, options, choice, reason) and loads them at session start. Optional sync to the Jira ticket or GitHub issue for reporter confirmation and a PR check. MIT.
 - [tycana](./plugins/tycana)
 - [workflow-optimizer](./plugins/workflow-optimizer)
 - [prd-generator](https://github.com/dredozubov/prd-generator) — Self-contained PRD generator from conversation context
